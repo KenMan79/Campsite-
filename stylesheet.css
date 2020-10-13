@@ -1,0 +1,23 @@
+.container {
+    background-color: aliceblue;
+    border-radius: 0.5em;
+    padding: 1em;
+    margin: 1.5em 0.5em;
+}
+
+* {
+    font-family: Tahoma;
+}
+
+h5 {
+    font-size: 1em
+}
+
+
+ul {
+    list-style-type: none;
+    padding: 0.2em;
+    background-color: lightcyan;
+    width: 10%;
+    border-radius: 1em;
+}
